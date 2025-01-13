@@ -2,5 +2,5 @@
 
 - 👋 Hi, I’m @T4iFooN
 - 👀 I'm a Senior Cloud Engineer
-- 🔭 On the road to CKA
-- 🌱 Currently learning MicroPython - Never stop learning!
+- 🔭 Currently exploring Arduino (c++) and MicroPython
+- 🌱 Never stop learning!
